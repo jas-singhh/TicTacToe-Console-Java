@@ -1,1 +1,1 @@
-This game has been made in Java and it runs in the console
+TicTacToe made in Java which can be played using the console.
